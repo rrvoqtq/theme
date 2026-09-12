@@ -1,0 +1,12 @@
+{
+  "display_name": "Discord 美化 v2",
+  "loading_order": 0,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "",
+  "author": "Kilo",
+  "version": "2.0.0",
+  "homePage": "",
+  "description": "Discord 三栏布局：服务器栏+频道侧边栏+聊天主区，P2/P4角色卡编辑，世界书直连，用户浮窗等"
+}
